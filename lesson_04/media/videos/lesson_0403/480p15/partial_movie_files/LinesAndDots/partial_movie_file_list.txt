@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/2118183852_4046863825_631829896.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/2118183852_4046863825_4278820561.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/366519484_4046863825_2899606995.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/366519484_736695278_1603718117.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/366519484_4046863825_4294179887.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/366519484_4046863825_2193749314.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/366519484_4046863825_3574002417.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/366519484_2270428088_632355073.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0403/480p15/partial_movie_files/LinesAndDots/366519484_4046863825_459738661.mp4'
