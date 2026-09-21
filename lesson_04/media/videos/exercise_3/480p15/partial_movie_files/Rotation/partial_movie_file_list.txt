@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_3/480p15/partial_movie_files/Rotation/2118183852_636372283_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_3/480p15/partial_movie_files/Rotation/366519484_1953458506_657526611.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_3/480p15/partial_movie_files/Rotation/366519484_2090384330_657526611.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_3/480p15/partial_movie_files/Rotation/366519484_4046863825_3691810418.mp4'
