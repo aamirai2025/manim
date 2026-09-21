@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0404/480p15/partial_movie_files/Arrows/2118183852_2890568104_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0404/480p15/partial_movie_files/Arrows/366519484_4046863825_3624024255.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0404/480p15/partial_movie_files/Arrows/366519484_291638447_504536935.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0404/480p15/partial_movie_files/Arrows/366519484_4046863825_897444067.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0404/480p15/partial_movie_files/Arrows/366519484_2169469208_1595077547.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0404/480p15/partial_movie_files/Arrows/366519484_4046863825_1383839949.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0404/480p15/partial_movie_files/Arrows/366519484_2713788407_1821033066.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/lesson_0404/480p15/partial_movie_files/Arrows/366519484_4046863825_961130689.mp4'

@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_1/480p15/partial_movie_files/Exercise1/2118183852_529213370_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_1/480p15/partial_movie_files/Exercise1/366519484_458580606_2545247200.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_1/480p15/partial_movie_files/Exercise1/366519484_1190095921_1150788548.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_1/480p15/partial_movie_files/Exercise1/366519484_1761436143_3481380946.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_1/480p15/partial_movie_files/Exercise1/366519484_2456939967_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_1/480p15/partial_movie_files/Exercise1/366519484_2837955562_4067896256.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_04/media/videos/exercise_1/480p15/partial_movie_files/Exercise1/366519484_4046863825_3716490493.mp4'
