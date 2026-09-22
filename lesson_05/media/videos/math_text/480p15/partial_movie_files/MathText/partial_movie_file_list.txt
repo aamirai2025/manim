@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_05/media/videos/math_text/480p15/partial_movie_files/MathText/2118183852_3673885636_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_05/media/videos/math_text/480p15/partial_movie_files/MathText/366519484_4046863825_2269820039.mp4'
