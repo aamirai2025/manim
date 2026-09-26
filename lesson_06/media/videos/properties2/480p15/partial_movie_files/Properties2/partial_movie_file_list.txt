@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_06/media/videos/properties2/480p15/partial_movie_files/Properties2/2118183852_2166166472_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_06/media/videos/properties2/480p15/partial_movie_files/Properties2/366519484_1346302580_557880437.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_06/media/videos/properties2/480p15/partial_movie_files/Properties2/366519484_2645707024_1891713581.mp4'
