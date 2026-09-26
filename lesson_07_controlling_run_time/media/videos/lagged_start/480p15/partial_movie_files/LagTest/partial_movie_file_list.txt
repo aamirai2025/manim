@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_07_controlling_run_time/media/videos/lagged_start/480p15/partial_movie_files/LagTest/2118183852_1572568826_2358810818.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_07_controlling_run_time/media/videos/lagged_start/480p15/partial_movie_files/LagTest/366519484_4046863825_2013821718.mp4'

@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_07_controlling_run_time/media/videos/exercise_2/480p15/partial_movie_files/PauseTest/2118183852_1644652507_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_07_controlling_run_time/media/videos/exercise_2/480p15/partial_movie_files/PauseTest/366519484_2645707024_513779971.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_07_controlling_run_time/media/videos/exercise_2/480p15/partial_movie_files/PauseTest/366519484_315651569_3456347002.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_07_controlling_run_time/media/videos/exercise_2/480p15/partial_movie_files/PauseTest/366519484_4046863825_288872205.mp4'
