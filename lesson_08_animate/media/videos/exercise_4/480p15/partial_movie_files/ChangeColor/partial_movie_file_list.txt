@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_4/480p15/partial_movie_files/ChangeColor/2118183852_522322798_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_4/480p15/partial_movie_files/ChangeColor/366519484_847192958_37371610.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_4/480p15/partial_movie_files/ChangeColor/366519484_1682476401_3456347002.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_4/480p15/partial_movie_files/ChangeColor/366519484_847192958_2382709740.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_4/480p15/partial_movie_files/ChangeColor/366519484_1786916710_1407845953.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_4/480p15/partial_movie_files/ChangeColor/366519484_847192958_3661243152.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_4/480p15/partial_movie_files/ChangeColor/366519484_3558591837_428960996.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_4/480p15/partial_movie_files/ChangeColor/366519484_847192958_2194945576.mp4'

@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/2118183852_847192958_631829896.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/2118183852_2148694134_2621522570.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_847192958_1411727523.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_2608249115_430195951.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_847192958_3949974182.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_4135845689_462140622.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_847192958_427537669.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_2494892304_4259624781.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_847192958_2538128667.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_1688734836_2301720748.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_08_animate/media/videos/exercise_5/480p15/partial_movie_files/ComboTransform/366519484_847192958_4039839588.mp4'
