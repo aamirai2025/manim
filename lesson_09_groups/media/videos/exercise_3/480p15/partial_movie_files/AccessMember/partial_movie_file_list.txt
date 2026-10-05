@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_09_groups/media/videos/exercise_3/480p15/partial_movie_files/AccessMember/2118183852_4238434947_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_09_groups/media/videos/exercise_3/480p15/partial_movie_files/AccessMember/366519484_847192958_1820207718.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_09_groups/media/videos/exercise_3/480p15/partial_movie_files/AccessMember/366519484_3096460459_3701609207.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_09_groups/media/videos/exercise_3/480p15/partial_movie_files/AccessMember/366519484_235080293_3970913558.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_09_groups/media/videos/exercise_3/480p15/partial_movie_files/AccessMember/366519484_2496240682_1372265132.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_09_groups/media/videos/exercise_3/480p15/partial_movie_files/AccessMember/366519484_2645707024_3357553463.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_09_groups/media/videos/exercise_3/480p15/partial_movie_files/AccessMember/366519484_4004627689_128607299.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_09_groups/media/videos/exercise_3/480p15/partial_movie_files/AccessMember/366519484_2645707024_1756061371.mp4'
