@@ -1,0 +1,12 @@
+# This file records the segment order used by Manim.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/7a913fb38c7b657810bcdce3c5427a29b9061962f0f2551fdfbab5f967214a55.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/7141607b7b14ad04f539ad9fda210eadc5df3a0d8142bd88a04b460c33dcfbd4.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/45db4df3671496ea4087fd8b5e677d3a50dc890b006b8c26bef8b846b3731e17.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/a188495b671307c7188830a2e599d65f41192c5ffca98ba2135d744f265b290a.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/b543923b81e10f753d535e0d49627a9978616a348e3d7de9b0a6211e227dc11c.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/36bcab8eb9e1f51fc297ce309d053b84f5d56b44195fb711b4621fb8c32e7b50.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/8f33142b66c48b50538195dd09c3184aef19cadd4fb08541f3454d115c9da4d0.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/f70c3558de8b8b6d334e61d8282c96fee29160128bd8669206a10f01a21c5d58.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/d91326c71e5cb141f22f4eed0ac7c5d3171a1057a6d1d4883b4d031ef3e0fd79.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/df39759eaa256b2e651ee943d9f5dcd8e8778d05357448b5a49ae13d2c047940.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_5/480p15/partial_movie_files/Exercise5/c50c123f39e0334b8c47cc873b8c1a260448f647934266a2c3cd7e3b1963bd92.mp4'

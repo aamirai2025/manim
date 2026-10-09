@@ -1,0 +1,12 @@
+# This file records the segment order used by Manim.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/fd06388052d1cf42f492d2f7b619b41fde1752c477c6b7e601218535b63cf139.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/94652063c41f03b50b3430764de9015bca2d7a55e4c0d701a9e70c09d429fcb4.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/f5afdc3bd7dce5d8c859bd0201471c2af1087737300aedd904f2cbeb2474fc87.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/979c14d56ff6e482f16d346771c671535056568739c3f72c42a243cd3446f873.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/0fa8082415273539411cea2b6165eabf1d7c9c6e1f0645c1607c1ab61cecf436.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/92885758b53e6f50ad33111446847be1cf41541e327bb631ef0867e4ead22e2b.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/f75559416fec96cc1f986815ecca67d30e9e6abfb57e7e12b4420ccf5ba64c76.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/4adfaa0a1c1c625194165f8cb396e928dafa1aa05def04e87431e76a3ea22546.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/46df5195b2c0e09b9e5efd211d1107da9cc374150cb1f967056f051a7a4164e2.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/b91714d63620383177fb0f4e3f1f3fca7690a41514f5d5c5f3784b426e9c2499.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/mini_project/480p15/partial_movie_files/MiniProject/fdc6643e484e31ed3113704034b7322567a01415b5ce0e77b7f893b2e7238d51.mp4'
