@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_3/480p15/partial_movie_files/Exercise3/2118183852_2622760687_223132457.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_3/480p15/partial_movie_files/Exercise3/366519484_1997273245_921446921.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_3/480p15/partial_movie_files/Exercise3/366519484_780824218_1859365146.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_3/480p15/partial_movie_files/Exercise3/366519484_746857156_1519141728.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_3/480p15/partial_movie_files/Exercise3/366519484_3585555961_1253617274.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_11_lines_and_arrows/media/videos/Exercise_3/480p15/partial_movie_files/Exercise3/366519484_847192958_865999086.mp4'
