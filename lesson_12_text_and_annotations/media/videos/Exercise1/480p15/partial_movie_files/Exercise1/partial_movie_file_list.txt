@@ -1,0 +1,5 @@
+# This file records the segment order used by Manim.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise1/480p15/partial_movie_files/Exercise1/1282aa4a05d220196ae2415c851c560963ebaf09bfe777dcb889a40204bb0916.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise1/480p15/partial_movie_files/Exercise1/7cca554179e48ab53d79b8715ec5edcab94b981dc088dd2c6fbdc6198685edc4.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise1/480p15/partial_movie_files/Exercise1/1ede5b19ab2633528d563d21e079eb9dfca866493b90edb174e3147abb4bacfc.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise1/480p15/partial_movie_files/Exercise1/f860c222d3229bce6f8947eee87804591437fd75e9ca57562ddf71e4719900f0.mp4'

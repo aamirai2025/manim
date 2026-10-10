@@ -1,0 +1,12 @@
+# This file records the segment order used by Manim.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/18f43ed640db9a9dcb8b38c908447adcd984ed4cd127bc022584c02581a626cd.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/c45b01204785132ffd650804b4311a4914fd3956c43e273197b191e226164792.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/ca1ebcdb7d77df873c2dfaddac35ee6bfe1617d7ee8e22c3fb6fd1ac4422f484.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/331ae54c67d4f3684509a3a643f4b391962e4df72b9db8bf658f043788c4a7ee.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/8c290a38a412dd3e8a6f1128089d6f4ec301525be3863d2e4199656be61e2505.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/22a5098e41ea68790468223e1f1df332ff4b72ccea0465549d25e980ae8ed7b9.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/def1a184b0e5c735a0845580fe1b7d208c4b6e60950e97a0b920973f665c47a1.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/c59fb217e139b9ded67310b7cc1c0741836e4d2f25a2dcd8dac84955cf4d994c.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/bce015cbde43589d8bea4e39b819761889f481f947d6a168d5decb79f9ca3f6a.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/cfc47dc103f1affec691ecda063855b843f7f35dac14acf8be650d88c030a5ce.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/mini_project/480p15/partial_movie_files/MiniProject/59d5919effa4a200f0fdfc934d0ec611b7a2741f2e4e0bae815d05bdbdc89e54.mp4'

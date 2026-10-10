@@ -1,0 +1,13 @@
+# This file records the segment order used by Manim.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/51c7db3ad547652c8afff7e07968e6524eda69dd2d8796084003525dc75bc45e.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/3f7cb5d009ec9b1ce4435936a5dc9b7d01df6b487d3701a2c0b176326d33c336.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/468ed35c2b9d488f663e4503f14b74446b927a37a1419c467a46884fab1a2ff6.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/df87794ee0c7f71d0dd1bc21b420e1531c42fd8af991728d10787f570856cdab.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/e26077ff46ba8b4e6f199c925c9cc0b780ebe97db0f4752d0d7fa6f65ed46266.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/59ed053b97c92ab3b6f84d5cdbab3e341fc5db366dc028544d3c1059f4cb6ff9.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/6917a12582468389872de14ab229fae20033eb4c0f33c4da4f408ec7546de2c3.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/454c1e12453bb8357979e29898009571738d2d2733ed0a32b54e17c7682def00.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/78ea99891d1f3eacdf1241e4097a38b59d7d0a017b6aaa60fb5d925a4c30edce.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/6ab832ddccbdbfcf80cbad61645c0b80abd9e3fb91817e8902fa100491b1729e.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/f75fcbdad29b4fcfe17f50c7ebc4fc7d66f442325450d85e4d498448a636b4d8.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise3/1080p60/partial_movie_files/Exercise3/8917c996b0b6cc9fa1bb9f802619945df2c9e84c6e61a53b2e3b046bb3a2b6c5.mp4'

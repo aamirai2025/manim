@@ -1,0 +1,3 @@
+# This file records the segment order used by Manim.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise5/1080p60/partial_movie_files/Exercise5/02c6fe8471b0f58c9239bf6963d89133bd48bf0276cac25fab1d7ea1a2749167.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_12_text_and_annotations/media/videos/Exercise5/1080p60/partial_movie_files/Exercise5/aabf476ca5af08afe91608e7a4613bdb90ead182385a43ba9666e9ae31892078.mp4'
