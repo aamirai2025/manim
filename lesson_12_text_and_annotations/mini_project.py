@@ -25,7 +25,7 @@ class MiniProject(Scene):
 
         base = MathTex(r"a", font_size=40, color=YELLOW).next_to(AB, DOWN)
         perp = MathTex(r"b", font_size=40, color=YELLOW).next_to(BC, RIGHT)
-        hypo = MathTex(r"c", font_size=40, color=RED).next_to(AC, UP, buff=0.15)
+        hypo = MathTex(r"c", font_size=40, color=RED).move_to(AC.point_from_proportion(0.5) + UP*0.4)
 
         ra = RightAngle(Line(B_dot.get_center(), A_dot.get_center()), BC, length=0.3)
 
