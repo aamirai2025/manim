@@ -1,0 +1,5 @@
+# This file records the segment order used by Manim.
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_13_mathematical_typesetting/media/videos/equation_transformation/1080p60/partial_movie_files/EquationTransformation/ef0004e6573630b2002551d0bc59952b97944ee784a24787462f248d74e9f1dd.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_13_mathematical_typesetting/media/videos/equation_transformation/1080p60/partial_movie_files/EquationTransformation/506dbf74e9eaf409d1a01c356fc48a7e2df456986c2c8c1de7584b3a9374c0f2.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_13_mathematical_typesetting/media/videos/equation_transformation/1080p60/partial_movie_files/EquationTransformation/2cafbe1607b3c9821c4e4be9faf130b5b9a608ba08bd3e27fead06cb683fe391.mp4'
+file 'file:/home/aamir/aamir/clouds/github/manim/lesson_13_mathematical_typesetting/media/videos/equation_transformation/1080p60/partial_movie_files/EquationTransformation/d91fbc68eaa527b6699febd1a9bfa4647b603315685cbf8a36735cf79c3410f8.mp4'
